@@ -4,12 +4,12 @@ markdown:            redcarpet
 highlighter:         pygments
 
 # Permalinks
-permalink:           /:title
+permalink:           pretty
 relative_permalinks: true
 
 # Setup
-timezone:              # eg. Asia/Kathmandu
-locale:               # eg. en_us
+timezone:            '' # eg. Asia/Kathmandu
+locale:              '' # eg. en_us
 name:				         "minah"
 title:               "minglet"
 tagline:             'tagline'
