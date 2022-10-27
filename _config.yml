@@ -8,8 +8,8 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
-timezone:            GMT+09:00  # eg. Asia/Kathmandu
-locale:              ko_KR.UTF-8 # eg. en_us
+timezone:              # eg. Asia/Kathmandu
+locale:               # eg. en_us
 name:				         "minah"
 title:               "minglet"
 tagline:             'tagline'
